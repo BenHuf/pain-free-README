@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BenHuf/readme-gen/issues"
   },
-  "homepage": "https://github.com/BenHuf/readme-gen#readme"
+  "homepage": "https://github.com/BenHuf/readme-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
