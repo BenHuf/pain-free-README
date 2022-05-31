@@ -5,6 +5,8 @@
   ## Description
   This application runs in the terminal and creates a professional README.md from user supplied information.
 
+  Link to demo video: [https://drive.google.com/file/d/1_sRjfph88xx7epZWVuK1-EgzFJrBg3XR/view?usp=sharing](https://drive.google.com/file/d/1_sRjfph88xx7epZWVuK1-EgzFJrBg3XR/view?usp=sharing)
+
   ![Demo Video](./assets/README%20Gen%20Demo.gif)
 
 
